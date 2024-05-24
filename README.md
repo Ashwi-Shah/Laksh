@@ -3,7 +3,7 @@
 Laksh is a web application designed to connect job seekers with potential employers. It provides a user-friendly platform for companies to post job openings and for individuals to discover suitable positions. Laksh aims to streamline the recruitment process by offering features for both companies and job seekers.
 <br>
 <h2>Key Features</h2>
-<ul>Dual Modules:
+<ul><h3>Dual Modules:<h3>
 <li>Company Module: Companies can easily create and manage job postings, specifying requirements, salary ranges, and other relevant details.</li>
 <li>Job Seeker Module: Job seekers can browse available openings, filter by location, skillset, experience level, and salary expectations.</li>
 <li>Advanced Filtering System: Refine job searches based on specific criteria to find the most relevant opportunities.</li>
