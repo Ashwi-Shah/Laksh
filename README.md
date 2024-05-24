@@ -45,7 +45,7 @@ Laksh is a web application designed to connect job seekers with potential employ
      <li> Refer to project-specific instructions or build scripts for detailed build commands.</li>
     </ol>
 
-   <h3>Deployment:</h3>
+ <h3>Deployment:</h3>
    <ol>
     <li>After a successful build, deploy the generated war file (or equivalent) to your web server.</li>
     <li>The deployment process typically involves copying the war file to a specific location on your web server.</li>
@@ -55,18 +55,19 @@ Laksh is a web application designed to connect job seekers with potential employ
 
 
 <h2>Usage</h2>
-<ul>
-  Company Users:
-  <li> Create an account to post job openings.</li>
+  <h3>Company Users:</h3>
+  <ol>
+    <li> Create an account to post job openings.</li>
     <li> Fill in job details, including title, description, requirements, location, and salary.</li>
-  <li>Manage posted jobs and receive applications.</li>
-</ul>
-<ul>
-  Job Seeker Users:
-  <li>Create an account to browse and apply for jobs.</li>
-    <li>Utilize the filtering system to find relevant opportunities.</li>
-  <li>Apply for positions that match your qualifications.</li>
-</ul>
+    <li>Manage posted jobs and receive applications.</li>
+  </ol>
+ 
+   <h3>Job Seeker Users:</h3>
+    <ol>
+     <li>Create an account to browse and apply for jobs.</li>
+     <li>Utilize the filtering system to find relevant opportunities.</li>
+     <li>Apply for positions that match your qualifications.</li>
+    </ol>
 
 
 <h2>Contributing</h2>
