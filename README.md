@@ -3,30 +3,29 @@
 Laksh is a web application designed to connect job seekers with potential employers. It provides a user-friendly platform for companies to post job openings and for individuals to discover suitable positions. Laksh aims to streamline the recruitment process by offering features for both companies and job seekers.
 <br>
 <h2>Key Features</h2>
-<ul><h3>Dual Modules:<h3>
-<li>Company Module: Companies can easily create and manage job postings, specifying requirements, salary ranges, and other relevant details.</li>
-<li>Job Seeker Module: Job seekers can browse available openings, filter by location, skillset, experience level, and salary expectations.</li>
-<li>Advanced Filtering System: Refine job searches based on specific criteria to find the most relevant opportunities.</li>
-<li>Secure Communication: Built-in email system enables direct communication between companies and potential employees.</li>
+<ul>
+  <h3>Dual Modules:<h3>
+ <li>Company Module: Companies can easily create and manage job postings, specifying requirements, salary ranges, and other relevant details.</li>
+ <li>Job Seeker Module: Job seekers can browse available openings, filter by location, skillset, experience level, and salary expectations.</li>
+ <li>Advanced Filtering System: Refine job searches based on specific criteria to find the most relevant opportunities.</li>
+ <li>Secure Communication: Built-in email system enables direct communication between companies and potential employees.</li>
 </ul>
 
 <h2>Technologies Used</h2>
-<ul>
-<li>Backend: Java, JSP, Servlets</li>
-<li>Frontend: HTML, CSS, Bootstrap, JavaScript</li>
-</ul>
+ <ul>
+  <li>Backend: Java, JSP, Servlets</li>
+  <li>Frontend: HTML, CSS, Bootstrap, JavaScript</li>
+ </ul>
 
 <h2>Installation</h2>
-<h3>Prerequisites</h3>
-<ul>
-<li>Java Development Kit (JDK)</li>
-<li>Apache Tomcat</li>
-<li>Database (MySQL)</li>
-</ul>
-<h3>Configuration</h3>
-<ol>
-  <li>Database Configuration:
-     <ul>
+ <h3>Prerequisites</h3>
+ <ul>
+  <li>Java Development Kit (JDK)</li>
+  <li>Apache Tomcat</li>
+  <li>Database (MySQL)</li>
+ </ul>
+ <h3>Configuration</h3>
+  <ol><h3>Database Configuration:</h3>
        <li>Create a database for Laksh and configure connection details in relevant Java files.</li>
        <li>Update the connection details with your database credentials.</li>
      </ul>
