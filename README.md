@@ -3,13 +3,13 @@
 Laksh is a web application designed to connect job seekers with potential employers. It provides a user-friendly platform for companies to post job openings and for individuals to discover suitable positions. Laksh aims to streamline the recruitment process by offering features for both companies and job seekers.
 <br>
 <h2>Key Features</h2>
-<ul>
   <h3>Dual Modules:<h3>
- <li>Company Module: Companies can easily create and manage job postings, specifying requirements, salary ranges, and other relevant details.</li>
- <li>Job Seeker Module: Job seekers can browse available openings, filter by location, skillset, experience level, and salary expectations.</li>
- <li>Advanced Filtering System: Refine job searches based on specific criteria to find the most relevant opportunities.</li>
- <li>Secure Communication: Built-in email system enables direct communication between companies and potential employees.</li>
-</ul>
+  <ul>  
+   <li>Company Module: Companies can easily create and manage job postings, specifying requirements, salary ranges, and other relevant details.</li>
+   <li>Job Seeker Module: Job seekers can browse available openings, filter by location, skillset, experience level, and salary expectations.</li>
+   <li>Advanced Filtering System: Refine job searches based on specific criteria to find the most relevant opportunities.</li>
+   <li>Secure Communication: Built-in email system enables direct communication between companies and potential employees.</li>
+  </ul>
 
 <h2>Technologies Used</h2>
  <ul>
@@ -25,12 +25,12 @@ Laksh is a web application designed to connect job seekers with potential employ
   <li>Database (MySQL)</li>
  </ul>
  <h3>Configuration</h3>
-  <ol><h3>Database Configuration:</h3>
-       <li>Create a database for Laksh and configure connection details in relevant Java files.</li>
-       <li>Update the connection details with your database credentials.</li>
-     </ul>
-  </li>
-  <li>Server Configuration:
+  <h4>Database Configuration:</h4>
+  <ul>
+    <li>Create a database for Laksh and configure connection details in relevant Java files.</li>
+    <li>Update the connection details with your database credentials.</li>
+  </ul>
+  <h4>Server Configuration:</h4>
      <ul>
        <li>Configure your web server to deploy the Laksh application.</li>
      </ul>
