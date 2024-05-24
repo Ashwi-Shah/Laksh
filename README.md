@@ -25,29 +25,28 @@ Laksh is a web application designed to connect job seekers with potential employ
   <li>Database (MySQL)</li>
  </ul>
  <h3>Configuration</h3>
-  <h4>Database Configuration:</h4>
-  <ul>
+  <ol><h4>Database Configuration:</h4>
+   <ul>
     <li>Create a database for Laksh and configure connection details in relevant Java files.</li>
     <li>Update the connection details with your database credentials.</li>
-  </ul>
+   </ul>
   <h4>Server Configuration:</h4>
      <ul>
        <li>Configure your web server to deploy the Laksh application.</li>
      </ul>
-  </li>
 </ol>
+
 <h2>Build and Deploy</h2>
-<ul>
   <h3>Building:</h3>
-  <ol>
-    <li>This step depends on your project structure and build tools.</li>
-    <li>Common approaches include using a build tool like Maven or Gradle.</li>
-    <li> Refer to project-specific instructions or build scripts for detailed build commands.</li>
-  </ol>
-</ul>
-<ul>
-  <h3>Deployment:</h3>
-  <ol>
+   <ul>
+    <ol>
+     <li>This step depends on your project structure and build tools.</li>
+     <li>Common approaches include using a build tool like Maven or Gradle.</li>
+     <li> Refer to project-specific instructions or build scripts for detailed build commands.</li>
+    </ol>
+
+   <h3>Deployment:</h3>
+   <ol>
     <li>After a successful build, deploy the generated war file (or equivalent) to your web server.</li>
     <li>The deployment process typically involves copying the war file to a specific location on your web server.</li>
     <li>Consult your web server's documentation for deployment instructions.</li>
