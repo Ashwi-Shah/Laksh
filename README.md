@@ -37,9 +37,9 @@ Laksh is a web application designed to connect job seekers with potential employ
      </ul>
   </li>
 </ol>
-<h3>Build and Deploy</h3>
+<h2>Build and Deploy</h2>
 <ul>
-  Building:
+  <h3>Building:</h3>
   <ol>
     <li>This step depends on your project structure and build tools.</li>
     <li>Common approaches include using a build tool like Maven or Gradle.</li>
@@ -47,7 +47,7 @@ Laksh is a web application designed to connect job seekers with potential employ
   </ol>
 </ul>
 <ul>
-  Deployment:
+  <h3>Deployment:</h3>
   <ol>
     <li>After a successful build, deploy the generated war file (or equivalent) to your web server.</li>
     <li>The deployment process typically involves copying the war file to a specific location on your web server.</li>
