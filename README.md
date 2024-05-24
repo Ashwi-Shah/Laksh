@@ -70,6 +70,6 @@ Laksh is a web application designed to connect job seekers with potential employ
 We welcome contributions to Laksh! Feel free to fork the repository, create a new branch for your changes, and submit a pull request. Before contributing, please review any existing contribution guidelines for code style and formatting preferences.
 
 <h2>Contact</h2>
-For any questions or feedback about Laksh, feel free to create a GitHub issue or contact us at
+For any questions or feedback about Laksh, feel free to create a GitHub issue or contact us at<br>
 Gmail-> ashwishah1808@gmail.com
 Linkdin-> www.linkedin.com/in/ashwishah18
