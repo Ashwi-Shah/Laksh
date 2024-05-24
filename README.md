@@ -1,6 +1,6 @@
 <h1> Laksh: Job Opportunity Platform</h1>
 <h2>Project Description</h2>
-Laksh is a web application designed to connect job seekers with potential employers. It provides a user-friendly platform for companies to post job openings and for individuals to discover suitable positions. Laksh aims to streamline the recruitment process by offering features for both companies and job seekers.
+<p>Laksh is a web application designed to connect job seekers with potential employers. It provides a user-friendly platform for companies to post job openings and for individuals to discover suitable positions. Laksh aims to streamline the recruitment process by offering features for both companies and job seekers.</p>
 <br>
 <h2>Key Features</h2>
   <h3>Dual Modules:<h3>
@@ -67,7 +67,7 @@ Laksh is a web application designed to connect job seekers with potential employ
 
 
 <h2>Contributing</h2>
-We welcome contributions to Laksh! Feel free to fork the repository, create a new branch for your changes, and submit a pull request. Before contributing, please review any existing contribution guidelines for code style and formatting preferences.
+<p>We welcome contributions to Laksh! Feel free to fork the repository, create a new branch for your changes, and submit a pull request. Before contributing, please review any existing contribution guidelines for code style and formatting preferences.</p>
 
 <h2>Contact</h2>
 For any questions or feedback about Laksh, feel free to create a GitHub issue or contact us at<br>
