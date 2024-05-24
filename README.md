@@ -71,5 +71,4 @@
 
 <h2>Contact</h2>
 For any questions or feedback about Laksh, feel free to create a GitHub issue or contact us at<br>
-Gmail-> ashwishah1808@gmail.com <br>
 Linkdin-> www.linkedin.com/in/ashwishah18
