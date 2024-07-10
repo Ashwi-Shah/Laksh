@@ -2,7 +2,6 @@
 <h2>Project Description</h2>
 <p>Laksh is a web application designed to connect job seekers with potential employers. It provides a user-friendly platform for companies to post job openings and for individuals to discover suitable positions. Laksh aims to streamline the recruitment process by offering features for both companies and job seekers.</p>
 <br>
-<video src="laksh.mp4" alt="laksh"></video>
 <h2>Key Features</h2>
   <h3>Dual Modules:<h3>
   <ul>  
@@ -73,3 +72,9 @@
 <h2>Contact</h2>
 For any questions or feedback about Laksh, feel free to create a GitHub issue or contact us at<br>
 Linkdin-> www.linkedin.com/in/ashwishah18
+
+<h2>Video Demonstration</h2>
+<p>Watch the video below to see Laksh in action:</p>
+
+<video width="600" controls>
+  <source src="video/laksh.mp4"
