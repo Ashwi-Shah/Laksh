@@ -1,5 +1,5 @@
 <h1> Laksh: Job Opportunity Platform</h1>
-<video src="laksh.mp4">
+<video src="laksh.mp4" alt="laksh">
 <h2>Project Description</h2>
 <p>Laksh is a web application designed to connect job seekers with potential employers. It provides a user-friendly platform for companies to post job openings and for individuals to discover suitable positions. Laksh aims to streamline the recruitment process by offering features for both companies and job seekers.</p>
 <br>
