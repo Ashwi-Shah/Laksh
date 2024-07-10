@@ -73,10 +73,3 @@
 For any questions or feedback about Laksh, feel free to create a GitHub issue or contact us at<br>
 Linkdin-> www.linkedin.com/in/ashwishah18
 
-<h2>Video Demonstration</h2>
-<p>Watch the video below to see Laksh in action:</p>
-
-<video width="600" controls>
-  <source src="videos/laksh.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
